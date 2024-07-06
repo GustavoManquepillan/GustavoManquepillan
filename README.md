@@ -6,7 +6,7 @@
 ## Acerca de mí
 
 
-Soy Productor musical y Técnico en sonido, que tomó un bootcamp de Full Stack Python para Desafío Latam, para ampliar mis horizontes y logré certificación en Python para de Talento Digital. Me encanta aprender, me gustaría poder hacerlo continuamente y por siempre, planear, pensar en que mas puedo hacer para resolver algo. Estoy buscando nuevas experiencias en el área de la Industria TI. 
+Soy Productor musical y Técnico en sonido, que tomó un bootcamp de Full Stack Python para Desafío Latam, para ampliar mis horizontes.  Me encanta aprender, me gustaría poder hacerlo continuamente y por siempre, planear, pensar en que mas puedo hacer para resolver algo. Logré certificación en Python para de Talento Digital. Estoy buscando nuevas experiencias en el área de la Industria TI. 
 
 ## Languages and Tools / Lenguajes y herramientas
 
@@ -54,7 +54,7 @@ Soy Productor musical y Técnico en sonido, que tomó un bootcamp de Full Stack 
 ## Contact Me / Contactame
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-manquepillán">
-    <img src="https://img.shields.io/badge/LinkedIn-Gustavo-manquepillán-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="Linkedin"/>
+   <img src="https://img.shields.io/badge/LinkedIn-gustavo-manquepillán-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="Linkedin"/>
   </a>
   <a href="mailto:gustavomanquepillan@proton.me">
     <img src="https://img.shields.io/badge/Email-Gustavomanquepillan@proton.me-6D4AFF?style=for-the-badge&logo=proton&logoColor=white&labelColor=101010" alt="Email"/>
